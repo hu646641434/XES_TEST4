@@ -13,4 +13,8 @@
 {
     return [UIColor greenColor];
 }
++(UIColor *)newColor2
+{
+    return [UIColor yellowColor];
+}
 @end

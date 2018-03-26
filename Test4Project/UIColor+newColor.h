@@ -10,4 +10,5 @@
 
 @interface UIColor (newColor)
 +(UIColor *)newColor;
++(UIColor *)newColor2;
 @end
