@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   #pod的名称
   s.name         = "Test4Project"
   #pod的版本
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   #pod简介(最多140字符)
   s.summary      = "Test4Project."
   #pod详细描述
