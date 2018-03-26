@@ -15,6 +15,6 @@
 }
 +(UIColor *)newColor2
 {
-    return [UIColor yellowColor];
+    return [UIColor blackColor];
 }
 @end
